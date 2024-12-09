@@ -1,0 +1,187 @@
+.text{
+    text-align: center;
+    position: absolute;
+    font-family: 'Quicksand';
+    font-size: 30px;
+    top: 60px;
+    left: 100px;
+}
+
+.text2{
+    text-align: center;
+    position: absolute;
+    font-family: 'Inter';
+    font-size: 22px;
+    top: 200px;
+    left: 40px; 
+}
+
+.text2 img{
+    width:35px;
+    height: 40px; 
+    position: absolute;
+    top: 15px;
+    left: 280px; 
+}
+
+.square{
+    position: absolute;
+    top: 280px;
+    left: 30px;
+    width: 350px;
+    height: 55px; 
+    background-color: #EFF6FF; 
+    border-radius: 15px; 
+    padding: 20px; 
+    box-sizing: border-box;
+}
+
+.square p{
+    position: absolute;
+    font-family: 'Quicksand';
+    font-size: 22px;
+    top: -9px;
+    left: 75px;
+}
+
+.weigths img {
+    position: absolute;
+    width: 45px;
+    height: 45px; 
+    top: 4px;
+    left: 15px;
+}
+
+.icon img{
+    width: 17px;
+    height: 17px; 
+    position: absolute;
+    top: 16px;
+    left: 315px;   
+}
+
+.square2{
+    position: absolute;
+    top: 360px;
+    left: 30px;
+    width: 350px;
+    height: 55px; 
+    background-color: #EFF6FF; 
+    border-radius: 15px; 
+    padding: 20px; 
+    box-sizing: border-box;
+}
+
+.square2 p{
+    position: absolute;
+    font-family: 'Quicksand';
+    font-size: 22px;
+    top: -9px;
+    left: 75px;
+}
+
+.weigths2 img {
+    position: absolute;
+    width: 45px;
+    height: 45px; 
+    top: 4px;
+    left: 15px;
+}
+
+.icon2 img{
+    width: 17px;
+    height: 17px; 
+    position: absolute;
+    top: 16px;
+    left: 315px;   
+}
+
+.square3{
+    position: absolute;
+    top: 445px;
+    left: 30px;
+    width: 350px;
+    height: 55px; 
+    background-color: #EFF6FF; 
+    border-radius: 15px; 
+    padding: 20px; 
+    box-sizing: border-box;
+}
+
+.square3 p{
+    position: absolute;
+    font-family: 'Quicksand';
+    font-size: 22px;
+    top: -9px;
+    left: 75px;
+}
+
+.weigths3 img {
+    position: absolute;
+    width: 45px;
+    height: 45px; 
+    top: 4px;
+    left: 15px;
+}
+
+.icon3 img{
+    width: 17px;
+    height: 17px; 
+    position: absolute;
+    top: 16px;
+    left: 315px;   
+}
+
+.square4{
+    position: absolute;
+    top: 530px;
+    left: 30px;
+    width: 350px;
+    height: 55px; 
+    background-color: #EFF6FF; 
+    border-radius: 15px; 
+    padding: 20px; 
+    box-sizing: border-box;
+}
+
+.square4 p{
+    position: absolute;
+    font-family: 'Quicksand';
+    font-size: 22px;
+    top: -9px;
+    left: 75px;
+}
+
+.weigths4 img {
+    position: absolute;
+    width: 45px;
+    height: 45px; 
+    top: 4px;
+    left: 15px;
+}
+
+.icon4 img{
+    width: 17px;
+    height: 17px; 
+    position: absolute;
+    top: 16px;
+    left: 315px;   
+}
+
+.button{
+    position: absolute;
+    background-color: #3B82F6;
+    color: #fff;
+    border: none;
+    border-radius: 13px;
+    padding: 11px 30px;
+    top: 800px;
+    left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer; 
+    font-family: 'Quicksand';
+    width: auto;
+    display: inline-block;
+    transition: all 0.100s ease;
+}

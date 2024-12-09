@@ -1,0 +1,29 @@
+.option-container{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  /* Etiqueta */
+  label {
+    font-size: 12px;
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  /* Estilo del select */
+  .option {
+    padding: 15px;
+    font-size: 18px;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  /* Hover y enfoque */
+  .option:hover, .option:focus {
+    outline: none;
+  }

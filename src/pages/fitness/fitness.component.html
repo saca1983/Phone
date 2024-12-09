@@ -1,0 +1,37 @@
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    
+    </head>
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<app-menu></app-menu>
+<div class="text">
+    <p>Selecciona tu nivel de <br> condición física y el <br>tiempo que desees</p>
+</div>
+
+<div class="text2">
+    <p>Nivel de condición física</p>
+</div>
+
+<div class="option">
+<app-options></app-options>
+</div>
+
+<div class="text3">
+    <p>Tiempo disponible por día</p>
+</div>
+
+<div class="option2">
+    <app-options2></app-options2>
+</div>
+
+<button class="button" (click)="onLogin()">
+    <span>Crear mi plan personalizado</span>
+</button>

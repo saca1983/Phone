@@ -1,0 +1,200 @@
+.text h1{
+    position: absolute;
+    font-family: 'Inter';
+    font-size: 27px;
+    top: 40px;
+    left: 50px; 
+}
+
+.text img{
+    width: 17px;
+    height: 17px; 
+    position: absolute;
+    top: 67px;
+    left: 23px; 
+}
+
+.perfil img{
+    position: absolute;
+    top: 120px;
+    left: 130px; 
+}
+
+.name h1{
+    position: absolute;
+    font-family: 'Inter';
+    font-size: 27px;
+    top: 250px;
+    left: 170px;  
+}
+
+.person h1{
+    position: absolute;
+    font-family: 'Inter';
+    color: #007AFF;
+    font-size: 22px;
+    top: 310px;
+    left: 50px;   
+}
+
+.person img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 330px;
+    left: 300px;   
+}
+
+.name2 h1{
+    position: absolute;
+    font-family: 'Inter';
+    color: #000;
+    font-size: 18px;
+    top: 360px;
+    left: 70px;    
+}
+
+.name2 img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 373px;
+    left: 43px;   
+}
+
+.name2 p{
+    position: absolute;
+    font-family: 'Quicksand';
+    color: #4B5563;
+    font-size: 18px;
+    top: 390px;
+    left: 85px;
+}
+
+.correo h1{
+    position: absolute;
+    font-family: 'Inter';
+    color: #000;
+    font-size: 18px;
+    top: 430px;
+    left: 70px;    
+}
+
+.correo img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 445px;
+    left: 43px;   
+}
+
+.correo p{
+    position: absolute;
+    font-family: 'Quicksand';
+    color: #4B5563;
+    font-size: 18px;
+    top: 455px;
+    left: 85px;
+}
+
+.security h1{
+    position: absolute;
+    font-family: 'Inter';
+    color: #007AFF;
+    font-size: 22px;
+    top: 505px;
+    left: 50px;   
+}
+
+.security img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 525px;
+    left: 300px;   
+}
+
+.password img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 570px;
+    left: 43px;   
+}
+
+.password p{
+    position: absolute;
+    font-family: 'Quicksand';
+    color: #4B5563;
+    font-size: 18px;
+    top: 550px;
+    left: 75px;
+}
+
+.verify img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 625px;
+    left: 43px;   
+}
+
+.verify p{
+    position: absolute;
+    font-family: 'Quicksand';
+    color: #4B5563;
+    font-size: 18px;
+    top: 600px;
+    left: 75px;
+}
+
+.notifications h1{
+    position: absolute;
+    font-family: 'Inter';
+    color: #007AFF;
+    font-size: 22px;
+    top: 650px;
+    left: 50px;   
+}
+
+.notifications img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 670px;
+    left: 300px;   
+}
+
+.push img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 715px;
+    left: 43px;   
+}
+
+.push p{
+    position: absolute;
+    font-family: 'Quicksand';
+    color: #4B5563;
+    font-size: 18px;
+    top: 695px;
+    left: 75px;
+}
+
+.email img{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 760px;
+    left: 43px;   
+}
+
+.email p{
+    position: absolute;
+    font-family: 'Quicksand';
+    color: #4B5563;
+    font-size: 18px;
+    top: 740px;
+    left: 75px;
+}

@@ -1,0 +1,135 @@
+.text{
+    position: absolute;
+    font-family: 'Inter';
+    font-size: 13px;
+    top: 70px;
+    left: 55px; 
+}
+
+.subtext p{
+    text-align: center;
+    position: absolute;
+    font-family: 'Quicksand';
+    font-size: 22px;
+    top: 120px;
+    left: 70px; 
+}
+
+.square{
+    position: absolute;
+    top: 300px;
+    left: 30px;
+    width: 350px;
+    height: 350px; 
+    background-color: #EFF6FF; 
+    border-radius: 15px; 
+    padding: 20px; 
+    box-sizing: border-box;
+}
+
+.exercise{
+    position: absolute;
+    font-family: 'Inter';
+    font-size: 20px;
+    top: 15px;
+    left: 55px; 
+}
+
+.exercise img{
+    width: 20px;
+    height: 20px; 
+    position: absolute;
+    top: 23px;
+    left: -30px; 
+}
+
+.number p{
+    position: absolute;
+    font-family: 'Quicksand';
+    color: #4B5563;
+    font-size: 18px;
+    top: 18px;
+    left: 295px; 
+}
+
+.Squat p{
+    position: absolute;
+    font-family: 'Inter';
+    color: #000000;
+    font-size: 18px;
+    top: 70px;
+    left: 30px; 
+}
+
+.Squat2 p{
+    text-align: left;
+    position: absolute;
+    font-family: 'Inter';
+    color: #787A7C;
+    font-size: 16px;
+    top: 70px;
+    left: 180px; 
+}
+
+.plank p{
+    position: absolute;
+    font-family: 'Inter';
+    color: #000000;
+    font-size: 18px;
+    top: 150px;
+    left: 30px; 
+}
+
+.plank2 p{
+    text-align: left;
+    position: absolute;
+    font-family: 'Inter';
+    color: #787A7C;
+    font-size: 16px;
+    top: 150px;
+    left: 180px; 
+}
+
+.weights p{
+    position: absolute;
+    font-family: 'Inter';
+    color: #000000;
+    font-size: 18px;
+    top: 240px;
+    left: 30px; 
+}
+
+.weights2 p{
+    text-align: left;
+    position: absolute;
+    font-family: 'Inter';
+    color: #787A7C;
+    font-size: 16px;
+    top: 240px;
+    left: 180px; 
+}
+
+.next p{
+    position: absolute;
+    font-family: 'Quicksand';
+    color: #4B5563;
+    font-size: 18px;
+    top: 660px;
+    left: 80px;
+}
+
+.next img{
+    width: 20px;
+    height: 20px; 
+    position: absolute;
+    top: 680px;
+    left: 45px; 
+}
+
+.image{
+    width: 20px;
+    height: 20px; 
+    position: absolute;
+    top: 720px;
+    left: 30px;  
+}
